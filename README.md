@@ -2,7 +2,7 @@
 Sample ASP.NET application used to show how to create Docker Windows containers
 
 # Usage
-In Visual Studio, publish the site using the ContainerImage Publish Profile. This will create a `PublishOutput\` directory in the project directory.
+In Visual Studio, publish the site using the `ContainerImage` Publish Profile. This will create a `PublishOutput\` directory in the project directory.
 
 Assuming you have Docker engine installed on your Windows system, issue the following command from a command prompt or PowerShell terminal in the project directory:
 ```
